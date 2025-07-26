@@ -1,4 +1,4 @@
-## PLP ASSIGNMENTS 
+# PLP ASSIGNMENTS 
 
-# Python Assignments 1
+- Python Assignments 1
 
